@@ -1,1 +1,1 @@
-{"title":"Go Beyond!!","origin":"Ryu vs Sota","icon":"./crt-0-ico_371_pic.jpg"}
+{"title":"Go Beyond!!","origin":"Ryu vs Sota","icon":"./crt-0-ico_371_pic.jpg","audio":"./crt-0-aud_371_mus.mp3"}
