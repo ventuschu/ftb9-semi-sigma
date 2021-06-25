@@ -1,1 +1,1 @@
-{"title":"AXION","origin":"sakuzyo","icon":"./crt-4-ico_392_pic.jpg","audio":"./crt-4-aud_392_mus.mp3"}
+{"title":"AXION","origin":"sakuzyo","icon":"./crt-4-ico_392_pic.jpg","audio":"./crt-4-aud_392_mus.mp3","chart":"./crt-4-nte_impossible.txt"}
