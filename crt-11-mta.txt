@@ -1,1 +1,1 @@
-{"title":"Rizing You Up","origin":"Ryu"}
+{"title":"Rizing You Up","origin":"Ryu","icon":"./crt-11-ico_268_pic.jpg"}
