@@ -1,1 +1,1 @@
-{"title":"Colorful Cookie","origin":"Lucky Vacuum"}
+{"title":"Colorful Cookie","origin":"Lucky Vacuum","icon":"./crt-10-ico_300_pic.jpg"}
