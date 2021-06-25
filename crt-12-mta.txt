@@ -1,1 +1,1 @@
-{"title":"Storm World","origin":"Furries in a Blender","icon":"./crt-12-ico_361_pic.jpg"}
+{"title":"Storm World","origin":"Furries in a Blender","icon":"./crt-12-ico_361_pic.jpg","audio":"./crt-12-aud_361_mus.mp3"}
