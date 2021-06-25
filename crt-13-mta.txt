@@ -1,1 +1,1 @@
-{"title":"The Big Black","origin":"The Quick Brown Fox","icon":"./crt-13-ico_367_pic.jpg","audio":"./crt-13-aud_367_mus.mp3"}
+{"title":"The Big Black","origin":"The Quick Brown Fox","icon":"./crt-13-ico_367_pic.jpg","audio":"./crt-13-aud_367_mus.mp3","chart":"./crt-13-nte_impossible.txt"}
