@@ -1,1 +1,1 @@
-{"title":"3y3s","origin":"Seiryu","icon":"./crt-9-ico_347_pic.jpg"}
+{"title":"3y3s","origin":"Seiryu","icon":"./crt-9-ico_347_pic.jpg","audio":"./crt-9-aud_347_mus.mp3"}
