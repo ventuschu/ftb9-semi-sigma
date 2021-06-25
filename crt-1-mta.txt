@@ -1,1 +1,1 @@
-{"title":"Shounen A","origin":"Shounen Radio"}
+{"title":"Shounen A","origin":"Shounen Radio","icon":"./crt-1-ico_373_pic.jpg"}
