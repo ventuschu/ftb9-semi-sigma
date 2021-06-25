@@ -1,1 +1,1 @@
-{"title":"Circus Galop","origin":"Marc-André Hamelin"}
+{"title":"Circus Galop","origin":"Marc-André Hamelin","icon":"./crt-6-ico_508_pic.jpg"}
