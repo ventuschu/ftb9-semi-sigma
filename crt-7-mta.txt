@@ -1,1 +1,1 @@
-{"title":"Horizons","origin":"Sabrepulse"}
+{"title":"Horizons","origin":"Sabrepulse","icon":"./crt-7-ico_508_pic.jpg"}
