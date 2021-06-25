@@ -1,1 +1,1 @@
-{"title":"Horizons","origin":"Sabrepulse","icon":"./crt-7-ico_508_pic.jpg","audio":"./crt-7-aud_508_mus.mp3"}
+{"title":"Horizons","origin":"Sabrepulse","icon":"./crt-7-ico_508_pic.jpg","audio":"./crt-7-aud_508_mus.mp3","chart":"./crt-7-nte_impossible.txt"}
