@@ -1,1 +1,1 @@
-{"title":"Colorful Cookie","origin":"Lucky Vacuum","icon":"./crt-10-ico_300_pic.jpg","audio":"./crt-10-aud_300_mus.mp3"}
+{"title":"Colorful Cookie","origin":"Lucky Vacuum","icon":"./crt-10-ico_300_pic.jpg","audio":"./crt-10-aud_300_mus.mp3","chart":"./crt-10-nte_hard.txt"}
