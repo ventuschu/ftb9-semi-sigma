@@ -1,1 +1,1 @@
-{"title":"Session 1 -Genesis-","origin":"Prastik Dancefloor","icon":"./crt-8-ico_519_pic.jpg"}
+{"title":"Session 1 -Genesis-","origin":"Prastik Dancefloor","icon":"./crt-8-ico_519_pic.jpg","audio":"./crt-8-aud_519_mus.mp3"}
