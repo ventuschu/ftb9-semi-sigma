@@ -1,1 +1,1 @@
-{"title":"Bloomin´ Feeling","origin":"Ryu","icon":"./crt-2-ico_373_pic.jpg","audio":"./crt-2-aud_373_mus.mp3"}
+{"title":"Bloomin´ Feeling","origin":"Ryu","icon":"./crt-2-ico_373_pic.jpg","audio":"./crt-2-aud_373_mus.mp3","chart":"./crt-2-nte_impossible.txt"}
