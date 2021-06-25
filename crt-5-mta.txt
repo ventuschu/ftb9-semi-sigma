@@ -1,1 +1,1 @@
-{"title":"ALBIDA","origin":"DJ Yoshitaka"}
+{"title":"ALBIDA","origin":"DJ Yoshitaka","icon":"./crt-5-ico_402_pic.jpg"}
