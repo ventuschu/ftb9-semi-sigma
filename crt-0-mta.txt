@@ -1,1 +1,1 @@
-{"title":"Go Beyond!!"}
+{"title":"Go Beyond!!","origin":"Ryu vs Sota"}
