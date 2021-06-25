@@ -1,1 +1,1 @@
-{"title":"ALBIDA","origin":"DJ Yoshitaka","icon":"./crt-5-ico_402_pic.jpg","audio":"./crt-5-aud_402_mus.mp3"}
+{"title":"ALBIDA","origin":"DJ Yoshitaka","icon":"./crt-5-ico_402_pic.jpg","audio":"./crt-5-aud_402_mus.mp3","chart":"./crt-5-nte_impossible.txt"}
