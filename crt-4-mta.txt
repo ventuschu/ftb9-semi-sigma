@@ -1,1 +1,1 @@
-{"title":"AXION","origin":"sakuzyo"}
+{"title":"AXION","origin":"sakuzyo","icon":"./crt-4-ico_392_pic.jpg"}
