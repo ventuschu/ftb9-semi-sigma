@@ -1,1 +1,1 @@
-{"title":"Go Beyond!!","origin":"Ryu vs Sota"}
+{"title":"Go Beyond!!","origin":"Ryu vs Sota","icon":"./crt-0-ico_371_pic.jpg"}
