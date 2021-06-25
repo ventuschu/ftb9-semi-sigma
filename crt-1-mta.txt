@@ -1,1 +1,1 @@
-{"title":"Shounen A"}
+{"title":"Shounen A","origin":"Shounen Radio"}
