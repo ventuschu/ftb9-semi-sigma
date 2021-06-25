@@ -1,1 +1,1 @@
-{"title":"Circus Galop","origin":"Marc-André Hamelin","icon":"./crt-6-ico_508_pic.jpg","audio":"./crt-6-aud_508_mus.mp3"}
+{"title":"Circus Galop","origin":"Marc-André Hamelin","icon":"./crt-6-ico_508_pic.jpg","audio":"./crt-6-aud_508_mus.mp3","chart":"./crt-6-nte_impossible.txt"}
