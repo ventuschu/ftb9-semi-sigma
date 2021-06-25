@@ -1,1 +1,1 @@
-{"title":"Shounen A","origin":"Shounen Radio","icon":"./crt-1-ico_373_pic.jpg","audio":"./crt-1-aud_373_mus.mp3"}
+{"title":"Shounen A","origin":"Shounen Radio","icon":"./crt-1-ico_373_pic.jpg","audio":"./crt-1-aud_373_mus.mp3","chart":"./crt-1-nte_impossible.txt"}
