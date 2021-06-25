@@ -1,1 +1,1 @@
-{"title":"Session 1 -Genesis-","origin":"Prastik Dancefloor"}
+{"title":"Session 1 -Genesis-","origin":"Prastik Dancefloor","icon":"./crt-8-ico_519_pic.jpg"}
